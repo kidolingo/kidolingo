@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang ="en">
+<head>
+	<meta charset="utf-8">
+	<title>
+		My very First Page
+	</title>
+</head>
+<main>
+	<h1>Mohamad Gharib</h1>
+
+	<ul><h2>Favorite Foods</h2>
+		<li>Apple</li>
+		<li>Pizza</li>
+		<li>Crab</li>
+		<li>Cake</li>
+	</ul>
+	<h1>Achievements</h1>
+	<p>Progress in this Course (100%) 
+		<br>Progress in second Course (20%)
+		<br>Progress in Life Goals (10%)
+	</p>
+
+</main>
+
+
+
+
+
+
+
+
+</html>
